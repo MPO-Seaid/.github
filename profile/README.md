@@ -1,12 +1,15 @@
-## Hi there 👋
+# MPO-Seaid
 
-<!--
+Esta é a organização no GitHub da Secretaria de Assuntos Internacionais e Desenvolvimento (Seaid), do Ministério do Planejamento e Orçamento (MPO).
 
-**Here are some ideas to get you started:**
+Esta organização agrupa os projetos desenvolvidos para diferentes demandas colocadas pela Seaid. A maioria dos repositórios está privado 
+pela natureza sensível dos dados trabalhados.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Na Web
+
+A página da Seaid no site do MPO está disponível no seguinte link: https://www.gov.br/planejamento/pt-br/assuntos/assuntos-internacionais-e-desenvolvimento
+
+## Contato
+
+* Para questionamentos gerais: [cofiex@economia.gov.br]()
+* Para questionamentos sobre o GitHub: [raphael.amaro@planejamento.gov.br]()
